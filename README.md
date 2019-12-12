@@ -1,4 +1,4 @@
-# muse-neuromore
+# muse2-neuromore
 A small script that split differents signals from muse vía OSC
 
 Necessary elements:
