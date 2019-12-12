@@ -5,7 +5,7 @@ Necessary elements:
 
 1.- Mind Monitor (Old Muse Monitor)
 
-2.- Python (I use python 3.8.0)
+2.- Python (I use python 3.8.0) with python-osc-1.7.3 library
 
 3.- Muse Headband 2
 
