@@ -7,7 +7,7 @@ Necessary elements:
 
 2.- Python (I use python 3.8.0) with python-osc-1.7.3 library
 
-3.- Muse Headband 2
+3.- Muse Headband 1 or 2
 
 4.- Neuromore installed and working
 
